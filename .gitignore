@@ -1,0 +1,5 @@
+# Datos locales de cada casa: no se suben al repo.
+dispositivos_conocidos.json
+ultimo_reporte.json
+__pycache__/
+*.pyc
