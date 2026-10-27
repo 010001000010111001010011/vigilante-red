@@ -1,0 +1,3 @@
+# Vigilante de Red Casero — sin dependencias externas.
+# Solo usa la biblioteca estándar de Python 3.8+.
+# No hay nada que instalar con pip.
